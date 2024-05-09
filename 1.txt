@@ -1,2 +1,6 @@
 this is a test file
+<<<<<<< HEAD
 changes made by dev1
+=======
+change made by dev2
+>>>>>>> dev2
